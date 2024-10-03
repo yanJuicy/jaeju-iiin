@@ -45,7 +45,7 @@
 
 
 # 3. API 기능 명세서
-[API 보러 가기](https://caring-pin-8ac.notion.site/API-114dcca716cf81799098c91328c78510)
+[API 명세서 확인](https://caring-pin-8ac.notion.site/API-114dcca716cf81799098c91328c78510)
 
 # 4. 개발 환경 설정
 다음과 같이 설정 파일들을 작성
